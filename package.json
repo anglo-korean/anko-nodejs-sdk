@@ -1,0 +1,24 @@
+{
+  "name": "@anglo-korean/anko-node-sdk",
+  "version": "1.0.0",
+  "description": "NodeJS SDK for the Anko Investor gRPC Forecasts Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/anglo-korean/anko-node-sdk"
+  },
+  "keywords": [
+    "anko",
+    "anko-investor",
+    "investment-tooling"
+  ],
+  "author": "Anglo Korean",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.4.4",
+    "@grpc/proto-loader": "^0.6.7"
+  }
+}
