@@ -4,7 +4,7 @@
   "description": "NodeJS SDK for the Anko Investor gRPC Forecasts Service",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
